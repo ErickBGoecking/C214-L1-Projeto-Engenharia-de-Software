@@ -65,8 +65,8 @@ npx kill-port 3000
 
 Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
 
- - [ ]  Criação do README.md
- - [ ]  Criação do Projeto inicial
+ - [x]  Criação do README.md
+ - [x]  Criação do Projeto inicial
  - [ ]  Desenvolvimento do Projeto
  - [ ]  Realização dos Testes
 
