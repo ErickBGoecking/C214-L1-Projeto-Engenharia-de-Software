@@ -53,12 +53,22 @@ Note que após a inicialização, abrirá um localhost para execução do cógid
 ```bash
 http://localhost:3000
 ```
-**Possível erro**
+**Possíveis erros após a execução de **npm start****
 
-Caso após a execução do comando **npm start** aparecer a seguinte mensagem: **Something is already running on port 3000**, execute o seguinte comando para corrigir o erro e liberar a porta 3000 e assim executar o projeto. 
+* Mensagem **Something is already running on port 3000**:
+
+Execute o seguinte comando para corrigir o erro e liberar a porta 3000 e assim executar o projeto. 
 
 ```bash
 npx kill-port 3000
+```
+
+* Mensagem **'React' must be in scope when using JSX**: 
+
+Execute o seguinte comando para corrigir o erro, e rode **npm start** novamente.
+
+```bash
+npm update
 ```
 
 ## Desenvolvimento e Melhorias
