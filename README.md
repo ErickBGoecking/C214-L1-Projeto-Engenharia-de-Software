@@ -8,6 +8,10 @@ Desenvolvimento feito para a matéria de Engenharia de Software do INATEL - Inst
 
 O objetivo do jogo é fazer uma sequência de três símbolos iguais, seja em linha vertical, horizontal ou diagonal, enquanto tenta impedir que seu adversário faça o mesmo; Quando um dos participantes faz uma linha, ganha o jogo
 
+## React
+
+React JS é uma biblioteca JavaScript para a criação de interfaces de usuário — ou UI.
+
 ## Instalação e Deploy
 
 **Front-end:** 
