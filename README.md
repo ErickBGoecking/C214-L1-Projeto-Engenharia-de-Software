@@ -10,7 +10,8 @@ O objetivo do jogo é fazer uma sequência de três símbolos iguais, seja em li
 
 ## React
 
-React JS é uma biblioteca JavaScript para a criação de interfaces de usuário — ou UI.
+React JS é uma biblioteca JavaScript para a criação de interfaces de usuário — ou UI de código aberto. React faz com que a criação de UIs interativas seja uma tarefa fácil. Crie views simples para cada estado na sua aplicação, e o React irá atualizar e renderizar de forma eficiente apenas os componentes necessários na medida em que os dados mudam.
+Por ser uma ferramenta no qual não é da grade curricular do curso de graduação e, a fim de aprender sobre outras ferrametas que, possivelmente possamos usar no mercado de trabalho.
 
 ## Instalação e Deploy
 
