@@ -91,6 +91,8 @@ Para executar os testes do projeto basta apenas rodar o comando:
 npm run test
 ```
 
+* Obs: O comando vai realizar todos os testes que contém o método "test" no diretório raiz.
+
 ## Desenvolvimento e Melhorias
 
 Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
