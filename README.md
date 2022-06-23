@@ -95,7 +95,7 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 ## Autores
 
-- **Alvaro Breno** - Link Github: [Alvaro Breno](https://www.github.com/octokatherine)
-- **Erick Braun Goecking Martins** - Link Github: [Erick Braun](https://www.github.com/octokatherine)
-- **Luiza Monroe** - Link Github: [Luiza Monroe](https://www.github.com/octokatherine)
+- **Alvaro Breno** - Link Github: [Alvaro Breno](https://www.github.com/AlvaroBreno)
+- **Erick Braun Goecking Martins** - Link Github: [Erick Braun](https://www.github.com/ErickGoecking)
+- **Luiza Monroe** - Link Github: [Luiza Monroe](https://www.github.com/luizamonroe)
 
