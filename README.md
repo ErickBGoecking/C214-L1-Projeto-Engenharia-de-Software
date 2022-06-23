@@ -6,20 +6,20 @@ Desenvolvimento feito para a matéria de Engenharia de Software do INATEL - Inst
 
 
 ## Menu
-- [Descrição](#descrio)
+- [Sobre](#o-jogo)
 - [React](#react)
-- [Instalação e Deploy](#instalao-e-deploy)
+- [Instalação e Deploy](#instalacao-e-deploy)
   - [Front-end](#front-end)
   - [Back-end](#back-end)
-  - [IDE de desenvolvimento](#ide-de-desenvolvimento--visual-studio-codehttpscodevisualstudiocom) 
+  - [IDE de desenvolvimento](#ide-de-desenvolvimento) 
 - [Clonando o projeto](#clone-o-projeto-no-seu-computador)
-  - [Possíveis erros](#possveis-erros-aps-a-execuo-de-npm-start)
+  - [Possíveis erros](#possiveis-erros-apos-a-execucao-de-npm-start)
 - [Testes com Jest/DOM](#testes-com-jest-dom)
 - [Desenvolvimento e Melhorias](#desenvolvimento-e-melhorias)
 - [Autores](#autores)
 
 
-## Descrição
+## O Jogo:
 
 O objetivo do jogo é fazer uma sequência de três símbolos iguais, seja em linha vertical, horizontal ou diagonal, enquanto tenta impedir que seu adversário faça o mesmo; Quando um dos participantes faz uma linha, ganha o jogo
 
@@ -46,7 +46,8 @@ Por ser uma ferramenta no qual não é da grade curricular do curso de graduaç�
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 )](https://nodejs.org/en/)
 
-#### IDE de Desenvolvimento  [Visual Studio Code](https://code.visualstudio.com/)
+#### IDE de Desenvolvimento 
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 Verifique se tem instalado o NodeJS em sua máquina. Caso nao tenha instalado em sua máquina, use [esse link](https://nodejs.org/en/) para acessar o instalador e a documentação oficial do NodeJS.
 
