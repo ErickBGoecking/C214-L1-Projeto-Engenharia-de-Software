@@ -65,6 +65,7 @@ Note que após a inicialização, abrirá um localhost para execução do cógid
 ```bash
 http://localhost:3000
 ```
+
 **Possíveis erros após a execução de **npm start****
 
 * Mensagem **Something is already running on port 3000**:
@@ -82,6 +83,13 @@ Execute o seguinte comando para corrigir o erro, e rode **npm start** novamente.
 ```bash
 npm update
 ```
+
+***Testes com Jest/ DOM***
+p
+Para executar os testes do projeto basta apenas rodar o comando:
+```bash
+npm run test
+``
 
 ## Desenvolvimento e Melhorias
 
