@@ -57,7 +57,7 @@ Para verificar se foi instalado corretamente e o núnero da versão instalada, u
 node -v
 ```
 
-### Clone o projeto no seu computador:
+## Clone o projeto no seu computador:
 
 ```bash
 git clone https://github.com/ErickBGoecking/Projeto-Engenharia-de-Software-C214-L1.git
