@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a95da5-b415-4672-ae85-ce48bfe0d7eb" name="Changes" comment="atualização readme">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo-da-velha/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/jogo-da-velha/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo-da-velha/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jogo-da-velha/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo-da-velha/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/jogo-da-velha/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo-da-velha/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/jogo-da-velha/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo-da-velha/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/jogo-da-velha/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo-da-velha/test/index.test.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +40,41 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luiza\Documents\Inatel\Projeto-Engenharia-de-Software-C214-L1\jogo-da-velha\teste" />
+      <recent name="C:\Users\luiza\Documents\Inatel\Projeto-Engenharia-de-Software-C214-L1\jogo-da-velha\src" />
+      <recent name="C:\Users\luiza\Documents\Inatel\Projeto-Engenharia-de-Software-C214-L1\jogo-da-velha" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/jogo-da-velha/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/jogo-da-velha/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +88,7 @@
       <workItem from="1656015829540" duration="74000" />
       <workItem from="1656016098052" duration="59000" />
       <workItem from="1656016263958" duration="110000" />
-      <workItem from="1656016922858" duration="3473000" />
+      <workItem from="1656016922858" duration="9752000" />
     </task>
     <task id="LOCAL-00001" summary="atualização readme">
       <created>1656020179231</created>
@@ -56,7 +97,35 @@
       <option name="project" value="LOCAL" />
       <updated>1656020179231</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="atualização readme">
+      <created>1656020500882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656020500882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="atualização readme">
+      <created>1656020620707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656020620707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="atualização readme">
+      <created>1656020708899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656020708899</updated>
+    </task>
+    <task id="LOCAL-00005" summary="atualização readme">
+      <created>1656020779853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656020779853</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

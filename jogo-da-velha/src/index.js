@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import {react, useState } from 'react';
 import ReactDOM from 'react-dom';
 
 import './index.css';
@@ -100,3 +100,4 @@ function calculateWinner(squares){
 
   return null;
 }
+

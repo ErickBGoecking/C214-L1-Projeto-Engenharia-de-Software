@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+const {logo} = require('./logo.svg')
+const {App}= require('./App.css')
+
 
 function App() {
   return (
@@ -22,4 +23,5 @@ function App() {
   );
 }
 
+module.exports = App;
 export default App;
