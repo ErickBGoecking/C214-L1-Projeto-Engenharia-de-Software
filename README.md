@@ -54,7 +54,7 @@ Instale as dependencias do projeto usando o  npm (com o projeto aberto na IDE).
 npm install
 ```
 
-Para fazer o Deploy do projeto, rode dentro da pasta do projeto:
+Para fazer o Deploy do projeto, rode dentro da pasta **jogo-da-velha** do projeto:
 
 ```bash
 npm start
