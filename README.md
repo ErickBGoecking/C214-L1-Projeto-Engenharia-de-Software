@@ -13,7 +13,7 @@ Desenvolvimento feito para a matéria de Engenharia de Software do INATEL - Inst
   - [Back-end](#back-end)
   - [IDE de desenvolvimento](#ide-de-desenvolvimento) 
 - [Clonando o projeto](#clone-o-projeto-no-seu-computador)
-  - [Possíveis erros](#possíveis-erros-apos-a-execução-de-npm-start)
+  - [Possíveis erros](#possíveis-erros-após-a-execução-de-npm-start)
 - [Testes com Jest/DOM](#testes-com-jest-dom)
 - [Desenvolvimento e Melhorias](#desenvolvimento-e-melhorias)
 - [Autores](#autores)
