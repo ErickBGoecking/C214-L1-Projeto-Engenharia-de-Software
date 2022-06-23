@@ -4,6 +4,21 @@ Famoso **Jogo da Velha** usando a tecnologia REACT, biblioteca JavaScript de có
 
 Desenvolvimento feito para a matéria de Engenharia de Software do INATEL - Instituto Nacional de Telecomunicações. 
 
+
+## Menu
+- [Descrição](#descrio)
+- [React](#react)
+- [Instalação e Deploy](#instalao-e-deploy)
+  - [Front-end](#front-end)
+  - [Back-end](#back-end)
+  - [IDE de desenvolvimento](#ide-de-desenvolvimento--visual-studio-codehttpscodevisualstudiocom) 
+- [Clonando o projeto](#clone-o-projeto-no-seu-computador)
+  - [Possíveis erros](#possveis-erros-aps-a-execuo-de-npm-start)
+- [Testes com Jest/DOM](#testes-com-jest-dom)
+- [Desenvolvimento e Melhorias](#desenvolvimento-e-melhorias)
+- [Autores](#autores)
+
+
 ## Descrição
 
 O objetivo do jogo é fazer uma sequência de três símbolos iguais, seja em linha vertical, horizontal ou diagonal, enquanto tenta impedir que seu adversário faça o mesmo; Quando um dos participantes faz uma linha, ganha o jogo
@@ -15,7 +30,7 @@ Por ser uma ferramenta no qual não é da grade curricular do curso de graduaç�
 
 ## Instalação e Deploy
 
-**Front-end:** 
+#### Front-end:
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )](https://pt-br.reactjs.org/) 
@@ -26,12 +41,12 @@ Por ser uma ferramenta no qual não é da grade curricular do curso de graduaç�
 [![JavaScritp](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-**Back-end:** 
+#### Back-end:
 
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 )](https://nodejs.org/en/)
 
-**IDE de Desenvolvimento**: [Visual Studio Code](https://code.visualstudio.com/)
+#### IDE de Desenvolvimento  [Visual Studio Code](https://code.visualstudio.com/)
 
 Verifique se tem instalado o NodeJS em sua máquina. Caso nao tenha instalado em sua máquina, use [esse link](https://nodejs.org/en/) para acessar o instalador e a documentação oficial do NodeJS.
 
@@ -41,7 +56,7 @@ Para verificar se foi instalado corretamente e o núnero da versão instalada, u
 node -v
 ```
 
-Clone o projeto para seu computador
+### Clone o projeto no seu computador:
 
 ```bash
 git clone https://github.com/ErickBGoecking/Projeto-Engenharia-de-Software-C214-L1.git
@@ -66,7 +81,7 @@ Note que após a inicialização, abrirá um localhost para execução do cógid
 http://localhost:3000
 ```
 
-**Possíveis erros após a execução de **npm start****
+#### Possíveis erros após a execução de **npm start**
 
 * Mensagem **Something is already running on port 3000**:
 
