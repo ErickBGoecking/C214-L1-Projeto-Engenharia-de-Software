@@ -84,12 +84,12 @@ Execute o seguinte comando para corrigir o erro, e rode **npm start** novamente.
 npm update
 ```
 
-#**Testes com Jest/ DOM**
+##**Testes com Jest/ DOM**
 
 Para executar os testes do projeto basta apenas rodar o comando:
 ```bash
 npm run test
-``
+```
 
 ## Desenvolvimento e Melhorias
 
