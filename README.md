@@ -85,6 +85,13 @@ npm update
 ```
 
 ## **Testes com Jest/ DOM**
+* **React testing library**: É um conjunto de utilitários que facilitam as consultas à DOM exatamente como um usuário faria, ou seja, é capaz de encontrar elementos de formulários, botões e links, entre outros. É importante se atentar que essa lib não é um test runner ou um framework, tanto que é altamente recomendável a utilização do Jest para isso. Mesmo assim, ainda há a opção de utilizá-la sem o jest. A própria documentação disponibiliza um tutorial de como isso é possível.
+
+* **Jest**: Esse framework foi criado pelo Facebook e tem como uma de suas principais qualidades a velocidade e facilidade em execução, já que ele visa trabalhar de uma forma simples, não há necessidade de configuração na maioria dos projetos, principalmente para o React. Ainda conta com a facilidade de lidar com snapshots e para melhorar o seu desempenho, cada teste é realizado de forma isolada.
+* 
+# Teste Mock
+Mocks são utilizadas para simular chamadas reais, ou seja, permitem criar módulos, funções com retorno de dados que você possa controlar (normalmente, é preferível que sejam usados dados 'falsos' para testes a fim de evitar a lentidão e a inconstância) e simular uma dependência. Elas facilitam essas chamadas onde a implementação não seria viável, no caso dos testes, por exemplo.
+
 
 Para executar os testes do projeto basta apenas rodar o comando:
 ```bash
