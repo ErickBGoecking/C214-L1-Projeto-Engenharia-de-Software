@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a95da5-b415-4672-ae85-ce48bfe0d7eb" name="Changes" comment="atualização readme">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +47,16 @@
       <workItem from="1656015829540" duration="74000" />
       <workItem from="1656016098052" duration="59000" />
       <workItem from="1656016263958" duration="110000" />
-      <workItem from="1656016922858" duration="3156000" />
+      <workItem from="1656016922858" duration="3473000" />
     </task>
+    <task id="LOCAL-00001" summary="atualização readme">
+      <created>1656020179231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656020179231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
