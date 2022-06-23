@@ -41,12 +41,19 @@ Para verificar se foi instalado corretamente e o núnero da versão instalada, u
 node -v
 ```
 
-Instale as dependencias do projeto usando o  npm.
+Clone o projeto para seu computador
 
 ```bash
-npx create-react-app jogo-da-velha
-cd jogo-da-velha
+git clone https://github.com/ErickBGoecking/Projeto-Engenharia-de-Software-C214-L1.git
 ```
+
+Com o projeto clonada em sua máquina
+Instale as dependencias do projeto usando o  npm (com o projeto aberto na IDE).
+
+```bash
+npm install
+```
+
 Para fazer o Deploy do projeto, rode dentro da pasta do projeto:
 
 ```bash
@@ -82,8 +89,8 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
  - [x]  Criação do README.md
  - [x]  Criação do Projeto inicial
- - [ ]  Desenvolvimento do Projeto
- - [ ]  Realização dos Testes
+ - [X]  Desenvolvimento do Projeto
+ - [X]  Realização dos Testes
 
 
 ## Autores
