@@ -47,7 +47,7 @@ Clone o projeto para seu computador
 git clone https://github.com/ErickBGoecking/Projeto-Engenharia-de-Software-C214-L1.git
 ```
 
-Com o projeto clonada em sua máquina
+Com o projeto clonado em sua máquina
 Instale as dependencias do projeto usando o  npm (com o projeto aberto na IDE).
 
 ```bash
