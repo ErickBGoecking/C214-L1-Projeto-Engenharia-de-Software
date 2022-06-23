@@ -92,7 +92,6 @@ npm update
 * **Teste Mock**
 Mocks são utilizadas para simular chamadas reais, ou seja, permitem criar módulos, funções com retorno de dados que você possa controlar (normalmente, é preferível que sejam usados dados 'falsos' para testes a fim de evitar a lentidão e a inconstância) e simular uma dependência. Elas facilitam essas chamadas onde a implementação não seria viável, no caso dos testes, por exemplo.
 
-
 Para executar os testes do projeto basta apenas rodar o comando:
 ```bash
 npm run test
