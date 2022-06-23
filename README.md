@@ -1,4 +1,4 @@
-# Tic Tae Toe - Jogo da Velha
+<h1 align="center"> Tic Tae Toe - Jogo da Velha </h1>
 
 Famoso **Jogo da Velha** usando a tecnologia REACT, biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. 
 
