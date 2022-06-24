@@ -1,13 +1,21 @@
-import {render, screen} from "@testing-library/react";
-import  userEvent from "@testing-library/user-event";
+import { render, screen } from '@testing-library/react';
+import App from './App';
 
-import {App} from ".";
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  expect(linkElement).toBeInTheDocument();
+});
 
-describe('Testes no app', () => {
-  it('renders learn react link', () => {
-    render(<App />);
-    const linkElement = screen.getByText("Jogo da Velha");
-    expect(linkElement).toBeInTheDocument();
-  });
-})
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  //expect(linkElement).toBeInTheDocument();
+  console.log(linkElement)
+});
 
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/edit/i);
+  expect(linkElement).toBeInTheDocument();
+});
